@@ -1,0 +1,23 @@
+body {
+    background-color: skyblue;
+  }
+
+  hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #9966FF;
+    border-width: 15px;
+    width: 8%;
+    }
+
+h1
+{color: red}
+h3
+{color: red}
+.normalline {
+  background-color: #9966FF;
+  border-style:dashed;
+  border-width: thin;
+  border-color: ##9966FF;
+  width: 100%;
+}
